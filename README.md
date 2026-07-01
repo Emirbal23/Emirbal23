@@ -21,7 +21,7 @@ Computer Engineering graduation project: a multi-role pharmacy and medication ma
 
 Tech focus: React Native, TypeScript, Redux Toolkit, Node.js, PostgreSQL, Notifee
 
-Repository: [EczaneYonetimMobil](https://github.com/Emirbal23/EczaneYonetimMobil)
+Repository: [EczaneYonetimMobil-Showcase](https://github.com/Emirbal23/EczaneYonetimMobil-Showcase)
 
 ### PTT Mobil Interface Redesign
 
