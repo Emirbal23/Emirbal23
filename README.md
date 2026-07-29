@@ -2,7 +2,7 @@
 
 Computer Engineer focused on React Native, TypeScript, mobile applications, API-driven product flows and AI-powered workflow automation.
 
-- LinkedIn: [linkedin.com/in/emirhan-bal-551239253](https://www.linkedin.com/in/emirhan-bal-551239253/)
+- LinkedIn: [linkedin.com/in/emirhan-bal-551239253](https://www.linkedin.com/in/emirhanbal023)
 - GitHub: [github.com/Emirbal23](https://github.com/Emirbal23)
 
 ## What I Build
